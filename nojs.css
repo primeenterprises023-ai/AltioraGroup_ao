@@ -1,0 +1,8 @@
+/* Carregado apenas quando o JavaScript está desativado */
+.svc-tabs{display:none}
+.svc-panels [hidden]{display:block!important}
+.panel{margin-bottom:2.5rem;padding-bottom:2.5rem;border-bottom:1px solid var(--line)}
+.head-bar{height:auto;flex-wrap:wrap;padding-block:12px}
+.nav{position:static;display:flex;flex-wrap:wrap;padding:0;border:0;box-shadow:none}
+.burger{display:none}
+.hero-copy>*,.win,.order,.chart .line,.chart .area,.chart .head{animation:none}
